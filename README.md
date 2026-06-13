@@ -159,6 +159,4 @@ For students and recruiters, it showcases the ability to design, develop, and im
 
 ## Screenshot
 
-## Screenshot
-
 ![Project Output](screenshots/student%20and%20grade%20output.png)
