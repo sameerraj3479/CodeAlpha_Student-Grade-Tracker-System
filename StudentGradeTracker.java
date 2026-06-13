@@ -11,7 +11,7 @@ class Student {
     }
 }
 
-public class StudentGradeManager {
+public class StudentGradeTracker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<Student> students = new ArrayList<>();

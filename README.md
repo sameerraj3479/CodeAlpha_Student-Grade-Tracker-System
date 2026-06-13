@@ -1,4 +1,4 @@
-# Student Grade Management System
+# Student Grade Tracker System
 
 A Java-Based Student Performance Analysis System Built Using Object-Oriented Programming and ArrayList
 
@@ -23,7 +23,7 @@ This project was developed to strengthen understanding of Java programming funda
 
 ## Features
 
-### Student Record Management
+### Student Record Tracker
 
 * Add multiple student records
 * Store names and grades dynamically
@@ -109,9 +109,9 @@ Lowest Score: 89.0
 ## Project Structure
 
 ```text
-CodeAlpha_StudentGradeManagementSystem/
+CodeAlpha_StudentGradeTrackerSystem/
 │
-├── StudentGradeManager.java
+├── StudentGradeTracker.java
 ├── README.md
 │
 └── screenshots/
@@ -123,11 +123,11 @@ CodeAlpha_StudentGradeManagementSystem/
 ```bash
 git clone <repository-url>
 
-cd CodeAlpha_StudentGradeManagementSystem
+cd CodeAlpha_StudentGradeTrackerSystem
 
-javac StudentGradeManager.java
+javac StudentGradeTracker.java
 
-java StudentGradeManager
+java StudentGradeTracker
 ```
 
 ## Learning Outcomes
