@@ -109,7 +109,7 @@ Lowest Score: 89.0
 ## Project Structure
 
 ```text
-CodeAlpha_StudentGradeTrackerSystem/
+StudentGradeTrackerSystem/
 │
 ├── StudentGradeTracker.java
 ├── README.md
@@ -123,7 +123,7 @@ CodeAlpha_StudentGradeTrackerSystem/
 ```bash
 git clone <repository-url>
 
-cd CodeAlpha_StudentGradeTrackerSystem
+cd StudentGradeTrackerSystem
 
 javac StudentGradeTracker.java
 
